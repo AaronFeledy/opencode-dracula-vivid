@@ -1,0 +1,10 @@
+{
+  "name": "dracula-vivid",
+  "version": "1.0.0",
+  "description": "A colorful Dracula theme for the OpenCode desktop app",
+  "license": "MIT",
+  "repository": "github:AaronFeledy/opencode-dracula-vivid",
+  "exports": {
+    "./gui-experimental": "./gui-experimental.cjs"
+  }
+}
